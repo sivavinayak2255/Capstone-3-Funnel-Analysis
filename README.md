@@ -1,5 +1,5 @@
 ### Funnel Analysis
-You worked on a real-time dataset analyzing Swiggy’s performance using Funnel Analysis. The dataset likely included key metrics such as website/app traffic, order placement, checkout process, and payment completion.The objective was to track the customer journey, from visiting the platform to successfully placing an order, and identify key performance trends.<br/>
+I have worked on a real-time dataset analyzing Swiggy’s performance using Funnel Analysis. The dataset likely included key metrics such as website/app traffic, order placement, checkout process, and payment completion.The objective was to track the customer journey, from visiting the platform to successfully placing an order, and identify key performance trends.<br/>
 Identifying order highs and lows (peak vs. off-peak ordering times).
 Tracking traffic fluctuations (changes in user visits and drop-offs).
 Measuring overall conversion changes (percentage of users moving through each funnel stage).
